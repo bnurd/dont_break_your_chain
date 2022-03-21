@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gy5XKwxs9vXDWGDLtZvnxaTHsbCKykAVunC6o7Om8i2ii+px/V/ur3O1GpoYFubz5qa4YT16PtqXnjyL8q9BNA==",
+  "success": true,
+  "projectFilePath": "/Users/bnd/Desktop/portfolio/dont_break_your_chain/dont_break_your_chain.csproj",
+  "expectedPackageFiles": [
+    "/Users/bnd/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/bnd/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/bnd/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/bnd/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/bnd/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/bnd/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
